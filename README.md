@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxystics&show_icons=true&theme=transparent)
+
 - 👋 Hi, I’m @NoXystics
 - 👀 I’m interested in making apps or games (preferably Roblox Studio)
 - 🌱 I’m currently learning Lua, Python, C++ and some photography things
