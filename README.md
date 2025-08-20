@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on some smol projects
 - 📫 How to reach me: 
 - Email: stefanus.gunawan.guan@gmail.com
-- Instagram: noxystics
-- Discord: noxystics
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: looking for a team if anyone even care 🥀
 
