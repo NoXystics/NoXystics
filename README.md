@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxystics&show_icons=true&theme=transparent)
+![SanC's Github Stats](https://github-readme-stats.vercel.app/api?username=noxystics&show_icons=true&theme=transparent)
 
 - 👋 Hi, I’m @NoXystics
 - 👀 I’m interested in making apps or games (preferably Roblox Studio)
