@@ -4,8 +4,7 @@
 - 👀 I’m interested in making apps or games (preferably Roblox Studio)
 - 🌱 I’m currently learning Lua, Python, C++ and some photography things
 - 💞️ I’m looking to collaborate on some smol projects
-- 📫 How to reach me: 
-- Email: stefanus.gunawan.guan@gmail.com
+- 📫 Email: stefanus.gunawan.guan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: looking for a team if anyone even care 🥀
 
