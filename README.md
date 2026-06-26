@@ -1,6 +1,6 @@
 ![SanC's Github Stats](https://github-readme-stats.vercel.app/api?username=noxystics&show_icons=true&theme=transparent)
 
-I’m @NoXystics
+# I’m @NoXystics
 - I’m interested in app or game dev preferably Roblox Studio
 - Learning Lua, Python, C++ & some photography things
 - I am looking to collaborate on few smol project
